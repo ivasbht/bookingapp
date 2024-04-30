@@ -1,0 +1,137 @@
+{
+    "flights": [
+      {
+        "id": "1",
+        "airline": "Example Airways",
+        "flight_number": "EX123",
+        "departure_airport": "ABC",
+        "departure_time": "2023-12-15T08:00:00",
+        "arrival_airport": "XYZ",
+        "arrival_time": "2023-12-15T12:00:00",
+        "duration": "4 hours",
+        "layovers": [
+          {
+            "airport": "LMN",
+            "layover_duration": "1 hour"
+          }
+        ],
+        "price": 300.00,
+        "currency": "USD",
+        "booking_url": "https://exampleairways.com/book/EX123"
+      },
+      {
+        "id": "2",
+        "airline": "Sample Airlines",
+        "flight_number": "SA456",
+        "departure_airport": "DEF",
+        "departure_time": "2023-12-15T10:30:00",
+        "arrival_airport": "LMN",
+        "arrival_time": "2023-12-15T15:00:00",
+        "duration": "4.5 hours",
+        "layovers": [
+          {
+            "airport": "GHI",
+            "layover_duration": "2 hours"
+          }
+        ],
+        "price": 250.00,
+        "currency": "USD",
+        "booking_url": "https://sampleairlines.com/book/SA456"
+      },
+      {
+        "id": "3",
+        "airline": "Airline Express",
+        "flight_number": "AE789",
+        "departure_airport": "GHI",
+        "departure_time": "2023-12-15T12:00:00",
+        "arrival_airport": "JKL",
+        "arrival_time": "2023-12-15T15:30:00",
+        "duration": "3.5 hours",
+        "layovers": [],
+        "price": 180.00,
+        "currency": "USD",
+        "booking_url": "https://airlineexpress.com/book/AE789"
+      },
+      {
+        "id": "4",
+        "airline": "Global Flights",
+        "flight_number": "GF555",
+        "departure_airport": "LMN",
+        "departure_time": "2023-12-15T14:30:00",
+        "arrival_airport": "OPQ",
+        "arrival_time": "2023-12-15T18:00:00",
+        "duration": "3.5 hours",
+        "layovers": [],
+        "price": 220.00,
+        "currency": "USD",
+        "booking_url": "https://globalflights.com/book/GF555"
+      },
+      {
+        "id": "5",
+        "airline": "Swift Airways",
+        "flight_number": "SW987",
+        "departure_airport": "JKL",
+        "departure_time": "2023-12-15T09:30:00",
+        "arrival_airport": "RST",
+        "arrival_time": "2023-12-15T12:30:00",
+        "duration": "3 hours",
+        "layovers": [],
+        "price": 280.00,
+        "currency": "USD",
+        "booking_url": "https://swiftairways.com/book/SW987"
+      },
+      {
+        "id": "6",
+        "airline": "SkyHigh Airlines",
+        "flight_number": "SH456",
+        "departure_airport": "LMN",
+        "departure_time": "2023-12-15T16:00:00",
+        "arrival_airport": "TUV",
+        "arrival_time": "2023-12-15T19:30:00",
+        "duration": "3.5 hours",
+        "layovers": [
+          {
+            "airport": "XYZ",
+            "layover_duration": "1.5 hours"
+          }
+        ],
+        "price": 320.00,
+        "currency": "USD",
+        "booking_url": "https://skyhighairlines.com/book/SH456"
+      },
+      {
+        "id": "7",
+        "airline": "Oceanic Airways",
+        "flight_number": "OA321",
+        "departure_airport": "OPQ",
+        "departure_time": "2023-12-15T11:00:00",
+        "arrival_airport": "UVW",
+        "arrival_time": "2023-12-15T14:30:00",
+        "duration": "3.5 hours",
+        "layovers": [],
+        "price": 200.00,
+        "currency": "USD",
+        "booking_url": "https://oceanicairways.com/book/OA321"
+      },
+      {
+        "id": "8",
+        "airline": "Mountain Air",
+        "flight_number": "MA555",
+        "departure_airport": "RST",
+        "departure_time": "2023-12-15T13:30:00",
+        "arrival_airport": "LMN",
+        "arrival_time": "2023-12-15T17:00:00",
+        "duration": "3.5 hours",
+        "layovers": [
+          {
+            "airport": "GHI",
+            "layover_duration": "1 hour"
+          }
+        ],
+        "price": 260.00,
+        "currency": "USD",
+        "booking_url": "https://mountainair.com/book/MA555"
+      }
+    ]
+  }
+  
